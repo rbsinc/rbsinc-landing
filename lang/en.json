@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "title": "Romain Boces Solution Inc. — Independent software studio based in Montreal, Canada",
+    "description": "Romain Boces Solution Inc. is an independent software studio based in Montreal, Canada, designing and building mobile and web applications.",
+    "og_title": "Romain Boces Solution Inc.",
+    "og_description": "Independent software studio based in Montreal, Canada. Designing and building mobile and web applications.",
+    "twitter_title": "Romain Boces Solution Inc.",
+    "twitter_description": "Independent software studio based in Montreal, Canada."
+  },
+  "nav": {
+    "about": "About",
+    "contact": "Contact"
+  },
+  "hero": {
+    "badge": "Independent software studio",
+    "title": "Romain Boces<br><span class='highlight'>Solution Inc.</span>",
+    "sub": "An independent software studio based in Montreal, Canada. We design and build thoughtful mobile and web applications.",
+    "cta_contact": "Get in touch"
+  },
+  "about": {
+    "label": "About",
+    "title": "A small studio, built around the craft.",
+    "desc": "Romain Boces Solution Inc. is a Canadian-incorporated software studio run by Romain Boces out of Montreal. We focus on building clean, reliable, and privacy-conscious applications for iOS, Android, and the web — the kind of software we want to use ourselves.",
+    "trust_independent": "Independent & self-funded",
+    "trust_canada": "Incorporated in Canada",
+    "trust_privacy": "Privacy-conscious engineering"
+  },
+  "contact": {
+    "label": "Contact",
+    "title": "Let's talk.",
+    "desc": "For business inquiries, partnerships, or support questions about any of our products, reach out by email.",
+    "email_label": "Email",
+    "location_label": "Location",
+    "location_value": "Montreal, Canada",
+    "legal_label": "Legal name",
+    "legal_value": "Romain Boces Solution Inc."
+  },
+  "footer": {
+    "copyright": "© 2026 Romain Boces Solution Inc.",
+    "legal": "Incorporated in Canada"
+  }
+}

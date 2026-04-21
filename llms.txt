@@ -1,0 +1,29 @@
+# Romain Boces Solution Inc.
+
+> An independent software studio based in Montreal, Canada, designing and building mobile and web applications.
+
+Romain Boces Solution Inc. is a Canadian-incorporated software studio run by Romain Boces out of Montreal. The company focuses on building clean, reliable, and privacy-conscious applications for iOS, Android, and the web.
+
+## Company
+
+- Legal name: Romain Boces Solution Inc.
+- Type: Incorporated company (Canada)
+- Location: Montreal, Quebec, Canada
+- Founder: Romain Boces
+- Structure: Solo developer / independent studio
+
+## Focus
+
+- iOS applications
+- Android applications
+- Web applications
+- Privacy-conscious software design
+
+## Contact
+
+- Email: romainboces@gmail.com
+- Website: https://romainboces.com
+
+## Links
+
+- Website: https://romainboces.com

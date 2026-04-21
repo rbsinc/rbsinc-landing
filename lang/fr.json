@@ -1,0 +1,42 @@
+{
+  "meta": {
+    "title": "Romain Boces Solution Inc. — Studio logiciel indépendant basé à Montréal, Canada",
+    "description": "Romain Boces Solution Inc. est un studio logiciel indépendant basé à Montréal, au Canada, qui conçoit et développe des applications mobiles et web.",
+    "og_title": "Romain Boces Solution Inc.",
+    "og_description": "Studio logiciel indépendant basé à Montréal, Canada. Conception et développement d'applications mobiles et web.",
+    "twitter_title": "Romain Boces Solution Inc.",
+    "twitter_description": "Studio logiciel indépendant basé à Montréal, Canada."
+  },
+  "nav": {
+    "about": "À propos",
+    "contact": "Contact"
+  },
+  "hero": {
+    "badge": "Studio logiciel indépendant",
+    "title": "Romain Boces<br><span class='highlight'>Solution Inc.</span>",
+    "sub": "Un studio logiciel indépendant basé à Montréal, au Canada. Nous concevons et développons des applications mobiles et web avec soin.",
+    "cta_contact": "Nous contacter"
+  },
+  "about": {
+    "label": "À propos",
+    "title": "Un petit studio, centré sur l'artisanat.",
+    "desc": "Romain Boces Solution Inc. est un studio logiciel incorporé au Canada, dirigé par Romain Boces depuis Montréal. Nous bâtissons des applications iOS, Android et web claires, fiables et respectueuses de la vie privée — le genre de logiciels que nous voulons utiliser nous-mêmes.",
+    "trust_independent": "Indépendant et autofinancé",
+    "trust_canada": "Incorporé au Canada",
+    "trust_privacy": "Ingénierie soucieuse de la vie privée"
+  },
+  "contact": {
+    "label": "Contact",
+    "title": "Parlons-nous.",
+    "desc": "Pour toute demande commerciale, partenariat ou question concernant nos produits, écrivez-nous par courriel.",
+    "email_label": "Courriel",
+    "location_label": "Emplacement",
+    "location_value": "Montréal, Canada",
+    "legal_label": "Raison sociale",
+    "legal_value": "Romain Boces Solution Inc."
+  },
+  "footer": {
+    "copyright": "© 2026 Romain Boces Solution Inc.",
+    "legal": "Incorporée au Canada"
+  }
+}
